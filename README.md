@@ -36,7 +36,7 @@ Here is the list of software available through this docker app. All of the sotwa
   - [Diamond](https://github.com/bbuchfink/diamond/)
   - [Mummer](https://github.com/mummer4/mummer)
   - [Snp-dists](https://github.com/tseemann/snp-dists)
-  - [Snp-sites](Snp-sites https://github.com/sanger-pathogens/snp-sites)
+  - [Snp-sites](https://github.com/sanger-pathogens/snp-sites)
   - [FastTree](http://www.microbesonline.org/fasttree/FastTree)
   - [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
   - [BWA](http://bio-bwa.sourceforge.net/)
