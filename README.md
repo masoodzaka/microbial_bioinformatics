@@ -57,7 +57,7 @@ Here is the list of software available through this docker app. All of the sotwa
     - [Scaffold builder](https://github.com/metageni/Scaffold_builder.git)
  * Genomes annotation tools
     - [Prokka](https://github.com/tseemann/prokka)
-    - [Artemis](httpArtemiss://github.com/sanger-pathogens/Artemis)
+    - [Artemis](https://github.com/sanger-pathogens/Artemis)
     - [Eggnog-mapper](https://github.com/eggnogdb/eggnog-mapper)
     - [SnpEFF](http://pcingola.github.io/SnpEff/)
     - [Vcf-annotator](https://github.com/rpetit3/vcf-annotator)
