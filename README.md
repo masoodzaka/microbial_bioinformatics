@@ -12,7 +12,7 @@
 
 ## Introduction
 
-This docker image is collection of some of the most popular software and tools currently being used in the analysis of raw NGS data, genome assembly and annotation of microbial genomes. All of the software are ready to use in the docker image that can be run on any machine (e.g. Mac, Linux and Windows) or on high performance cluster/computing platform via singularity. The docker app respository is available from the [docker hub](https://hub.docker.com/repository/docker/masoodzaka/bioinformatics).
+This docker image is collection of some of the most popular software and tools currently being used in the analysis of raw NGS data, genome assembly and annotation of microbial genomes. All of the software are ready to use in the docker image that can be run on any machine (e.g. Mac, Linux and Windows) or on high performance cluster/computing platform via singularity. The docker app respository is available from the [docker hub](https://hub.docker.com/repository/docker/masoodzaka/microbial_bioinformatics).
 
 ## Software 
 
