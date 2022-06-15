@@ -86,7 +86,7 @@ Password: `bioinfo`
 ----
 ### For docker desktop (windows)
 
-* Pull image from oneline docker hub to local computer. 
+* Pull image from online docker hub to local computer. 
 ```
 docker pull masoodzaka/microbial_bioinformatics
 ````
