@@ -86,6 +86,11 @@ Password: `bioinfo`
 ----
 ### For docker desktop (windows)
 
+* Pull image from oneline docker hub to local computer. 
+```
+docker pull masoodzaka/microbial_bioinformatics
+````
+----
 * Create a folder to map it to docker container on your window's drive
 ```
 e.g. drive(d):/microgen
